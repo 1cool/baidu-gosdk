@@ -1,4 +1,4 @@
-package internal
+package baidu_gosdk
 
 import (
 	"encoding/json"

@@ -1,4 +1,4 @@
-package internal
+package baidu_gosdk
 
 import (
 	"github.com/1cool/baidu-gosdk/internal/imagerecognition"
