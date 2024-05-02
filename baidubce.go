@@ -1,7 +1,7 @@
 package baidu_gosdk
 
 import (
-	"github.com/1cool/baidu-gosdk/internal/imagerecognition"
+	"github.com/1cool/baidu-gosdk/imagerecognition"
 	"net/http"
 	"net/url"
 	"time"
