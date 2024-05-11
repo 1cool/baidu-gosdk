@@ -19,6 +19,10 @@ type DishResponse struct {
 		HasCalorie  bool   `json:"has_calorie"`
 		Calorie     string `json:"calorie"`
 		Name        string `json:"name"`
+		BaikeInfo   struct {
+			BaikeURL    string `json:"baike_url"`
+			Description string `json:"description"`
+		} `json:"baike_info"`
 	} `json:"result"`
 	ResultNum int    `json:"result_num"`
 	LogID     int64  `json:"log_id"`
