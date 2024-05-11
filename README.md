@@ -6,7 +6,7 @@ baidu-gosdk
 
 ### Usage
 ```shell
-go get github.com/1cool/baidu-gosdk
+go get -u github.com/1cool/baidu-gosdk
 ```
 
 ```go
